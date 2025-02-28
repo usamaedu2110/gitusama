@@ -1,1 +1,1 @@
-print("Hello, World! Prints")
+print("Hello, World from both main and print branches!")
